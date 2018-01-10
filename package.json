@@ -1,6 +1,7 @@
 {
   "name": "gldi-components",
   "version": "0.1.0",
+  "main": "./src/components/index.js",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
